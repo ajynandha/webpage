@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+    font-weight: bold;
+    background-color:black;
+    border-radius: 10px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+body{
+    background-color: black;
+    border-radius: 10px;
+}
+  .ename label{
+    color: whitesmoke;
+    font-weight: 200;
+    font-size: larger;
+    margin-right: 100px;
+    
+ } 
+ .pname label{
+    color: whitesmoke;
+    font-weight: 200;
+    font-size: larger;
+    margin-right: 75px;
+ } 
+ .mname label{
+    color: whitesmoke;
+    font-weight: 200;
+    font-size: larger;
+    margin-right: 30px;
+ } 
+ .emname label{
+    color: whitesmoke;
+    font-weight: 200;
+    font-size: larger;
+    margin-right: 100px;
+ } 
+ .radio label{
+    color: whitesmoke;
+    font-weight: 200;
+    font-size: larger;
+    
+
+ } 
+ input{
+    border-color: whitesmoke;
+    border-style: solid;
+ }
+.select{
+    color: whitesmoke;
+}
+a{
+    color: whitesmoke;
+    display: block;
+    text-align: center;
+     
+}
+.radio input{
+    background-color: blue;
+}
+ 
+ 
+
+ 
